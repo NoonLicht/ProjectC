@@ -1,0 +1,4 @@
+C:\Users\artem\OneDrive\Документы\Programs C++\MyForm1\Debug\MyForm1.vcxproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Документы\Programs C++\MyForm1\Debug\MyForm1.exe
+C:\Users\artem\OneDrive\Документы\Programs C++\MyForm1\Debug\MyForm1.MyForm.resources
+C:\Users\artem\OneDrive\Документы\Programs C++\MyForm1\Debug\MyForm1.vcxproj.GenerateResource.cache
